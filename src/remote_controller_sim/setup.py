@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'remote_sim = remote_controller_sim.start_sim::main'
+            'remote_controller_sim = remote_controller_sim.start::main'
         ],
     },
 )
