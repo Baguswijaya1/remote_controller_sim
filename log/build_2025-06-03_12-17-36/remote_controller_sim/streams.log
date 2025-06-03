@@ -1,0 +1,25 @@
+[0.337s] Invoking command in '/home/bagus/ichimonji/remote_controller_sim/src/remote_controller_sim': PYTHONPATH=/home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/remote_controller_sim build --build-base /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/build install --record /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/install.log --single-version-externally-managed install_data
+[0.466s] running egg_info
+[0.466s] writing ../../build/remote_controller_sim/remote_controller_sim.egg-info/PKG-INFO
+[0.466s] writing dependency_links to ../../build/remote_controller_sim/remote_controller_sim.egg-info/dependency_links.txt
+[0.466s] writing entry points to ../../build/remote_controller_sim/remote_controller_sim.egg-info/entry_points.txt
+[0.467s] writing requirements to ../../build/remote_controller_sim/remote_controller_sim.egg-info/requires.txt
+[0.467s] writing top-level names to ../../build/remote_controller_sim/remote_controller_sim.egg-info/top_level.txt
+[0.468s] reading manifest file '../../build/remote_controller_sim/remote_controller_sim.egg-info/SOURCES.txt'
+[0.468s] writing manifest file '../../build/remote_controller_sim/remote_controller_sim.egg-info/SOURCES.txt'
+[0.468s] running build
+[0.468s] running build_py
+[0.468s] copying remote_controller_sim/remote_node.py -> /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/build/lib/remote_controller_sim
+[0.469s] running install
+[0.469s] running install_lib
+[0.469s] copying /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/build/lib/remote_controller_sim/remote_node.py -> /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim
+[0.470s] byte-compiling /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim/remote_node.py to remote_node.cpython-310.pyc
+[0.470s] running install_data
+[0.470s] running install_egg_info
+[0.471s] removing '/home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[0.471s] Copying ../../build/remote_controller_sim/remote_controller_sim.egg-info to /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim-0.0.0-py3.10.egg-info
+[0.472s] running install_scripts
+[0.485s] Installing drone_motors_node script to /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/remote_controller_sim
+[0.485s] Installing remote_controller_sim script to /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/remote_controller_sim
+[0.485s] writing list of installed files to '/home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/install.log'
+[0.500s] Invoked command in '/home/bagus/ichimonji/remote_controller_sim/src/remote_controller_sim' returned '0': PYTHONPATH=/home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/remote_controller_sim build --build-base /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/build install --record /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/install.log --single-version-externally-managed install_data

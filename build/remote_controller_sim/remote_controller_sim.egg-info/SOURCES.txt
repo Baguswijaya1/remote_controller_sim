@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/remote_controller_sim/remote_controller_sim.egg-info/PKG-INFO
+../../build/remote_controller_sim/remote_controller_sim.egg-info/SOURCES.txt
+../../build/remote_controller_sim/remote_controller_sim.egg-info/dependency_links.txt
+../../build/remote_controller_sim/remote_controller_sim.egg-info/entry_points.txt
+../../build/remote_controller_sim/remote_controller_sim.egg-info/requires.txt
+../../build/remote_controller_sim/remote_controller_sim.egg-info/top_level.txt
+../../build/remote_controller_sim/remote_controller_sim.egg-info/zip-safe
+remote_controller_sim/__init__.py
+remote_controller_sim/drone_node.py
+remote_controller_sim/remote_node.py
+resource/remote_controller_sim
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

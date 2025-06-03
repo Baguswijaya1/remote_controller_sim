@@ -1,0 +1,4 @@
+[console_scripts]
+drone_motors_node = remote_controller_sim.drone_node:main
+remote_controller_sim = remote_controller_sim.remote_node:main
+

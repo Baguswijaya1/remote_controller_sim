@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/remote_controller_sim/remote_controller_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/remote_controller_sim/remote_controller_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/remote_controller_sim/remote_controller_sim.egg-info/entry_points.txt
+writing requirements to ../../build/remote_controller_sim/remote_controller_sim.egg-info/requires.txt
+writing top-level names to ../../build/remote_controller_sim/remote_controller_sim.egg-info/top_level.txt
+reading manifest file '../../build/remote_controller_sim/remote_controller_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/remote_controller_sim/remote_controller_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+copying remote_controller_sim/remote_node.py -> /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/build/lib/remote_controller_sim
+running install
+running install_lib
+copying /home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/build/lib/remote_controller_sim/remote_node.py -> /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim
+byte-compiling /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim/remote_node.py to remote_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/remote_controller_sim/remote_controller_sim.egg-info to /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/python3.10/site-packages/remote_controller_sim-0.0.0-py3.10.egg-info
+running install_scripts
+Installing drone_motors_node script to /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/remote_controller_sim
+Installing remote_controller_sim script to /home/bagus/ichimonji/remote_controller_sim/install/remote_controller_sim/lib/remote_controller_sim
+writing list of installed files to '/home/bagus/ichimonji/remote_controller_sim/build/remote_controller_sim/install.log'

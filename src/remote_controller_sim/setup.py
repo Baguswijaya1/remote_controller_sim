@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'remote_controller_sim = remote_controller_sim.start::main'
+            'remote_controller_sim = remote_controller_sim.remote_node:main',
+            'drone_motors_node = remote_controller_sim.drone_node:main'
         ],
     },
 )
